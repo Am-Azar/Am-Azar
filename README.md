@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Am-Azar
 - 👀 I’m a computer vision developer
-- 🌱 I’m currently exploring the horizon of deep learning
+- 🌱 Exploring the horizon of deep learning
 
 <!---
 Am-Azar/Am-Azar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
